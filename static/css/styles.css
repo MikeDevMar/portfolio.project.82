@@ -1,0 +1,70 @@
+body {
+  background-color:  #dac292;
+  font-family:  'Montserrat',
+
+}
+img{
+  height: 250px;
+}
+hr {
+   border: none;
+   border-top: 1px dotted black;
+   border-width: 8px;
+   width:  10%;
+   position: relative;
+   margin-left: 45%;
+   text-align-center;
+   border-color: white;
+ }
+.navigation_bar{
+ position: relative;
+text-align: right;
+margin-right:5%;
+}
+.heads {
+text-align: center;
+}
+
+
+
+.Education{
+position: relative;
+text-align: center;
+padding-top: 3%;
+}
+.about_me_section{
+text-align: center;
+}
+.my_img{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+
+.work_experience{
+position:relative;
+text-align: center;
+padding-top: 3%;
+
+}
+.work_table{
+margin-left:auto;
+margin-right: auto;
+}
+.tech_skills{
+position:relative;
+text-align:center;
+padding-top: 3%;
+
+}
+.lag_table{
+margin-left:auto;
+margin-right: auto;
+}
+.contact-information{
+text-align: center;
+padding-top: 3%;
+
+margin-left: auto;
+margin-right: auto;
+}
